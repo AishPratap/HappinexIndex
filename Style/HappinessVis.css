@@ -1,0 +1,35 @@
+body{
+    background-color: #E6E7EB;
+}
+
+.header{
+    background-color: deepskyblue;
+    /*position: absolute;*/
+    /*width: 80%;*/
+    height: 50px;
+}
+
+.index-body{
+    background-color: white;
+    height: 50%;
+    width: 76%;
+    display: block;
+    margin: auto;
+    box-shadow: 5px 5px 10px #888888;
+}
+
+.description{
+    height: 50%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.index-container{
+
+    /*position: relative;*/
+    height: 1200px;
+    padding: 10px 10px 10px 5px;
+    background-color: transparent;
+    /*width: 80%;*/
+}
+
