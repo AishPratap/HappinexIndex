@@ -1,0 +1,159 @@
+Country,HScore,Id,CIndex
+Switzerland,7.587,756,86
+Iceland,7.561,352,79
+Denmark,7.527,208,91
+Norway,7.522,578,87
+Canada,7.427,124,83
+Finland,7.406,246,90
+Netherlands,7.378,528,87
+Sweden,7.364,752,89
+New Zealand,7.286,554,88
+Australia,7.284,36,79
+Israel,7.278,376,61
+Costa Rica,7.226,188,55
+Austria,7.2,40,76
+Mexico,7.187,484,35
+United States,7.119,840,76
+Brazil,6.983,76,38
+Luxembourg,6.946,442,81
+Ireland,6.94,372,75
+Belgium,6.937,56,77
+United Arab Emirates,6.901,784,70
+United Kingdom,6.867,826,81
+Oman,6.853,512,45
+Venezuela,6.81,862,17
+Singapore,6.798,702,85
+Panama,6.786,591,39
+Germany,6.75,276,81
+Chile,6.67,152,70
+Qatar,6.611,634,71
+France,6.575,250,70
+Argentina,6.574,32,32
+Czech Republic,6.505,203,56
+Uruguay,6.485,858,74
+Colombia,6.477,170,37
+Thailand,6.455,764,38
+Saudi Arabia,6.411,682,52
+Spain,6.329,724,58
+Malta,6.302,470,56
+Taiwan,6.298,158,62
+Kuwait,6.295,414,49
+Suriname,6.269,740,36
+Trinidad and Tobago,6.168,780,39
+El Salvador,6.13,222,39
+Guatemala,6.123,320,28
+Uzbekistan,6.003,860,19
+Slovakia,5.995,703,51
+Japan,5.987,392,75
+South Korea,5.984,,
+Ecuador,5.975,218,32
+Bahrain,5.96,48,51
+Italy,5.948,380,44
+Bolivia,5.89,68,34
+Moldova,5.889,498,33
+Paraguay,5.878,600,27
+Kazakhstan,5.855,398,28
+Slovenia,5.848,705,60
+Lithuania,5.833,440,61
+Nicaragua,5.828,558,27
+Peru,5.824,604,36
+Belarus,5.813,112,32
+Poland,5.791,616,62
+Malaysia,5.77,458,50
+Croatia,5.759,191,51
+Libya,5.754,434,16
+Russia,5.716,643,29
+Jamaica,5.709,388,41
+North Cyprus,5.695,,
+Cyprus,5.689,196,61
+Algeria,5.605,12,36
+Kosovo,5.589,33,
+Turkmenistan,5.548,795,18
+Mauritius,5.477,480,53
+Hong Kong,5.474,344,75
+Estonia,5.429,233,70
+Indonesia,5.399,360,36
+Vietnam,5.36,31,
+Turkey,5.332,792,42
+Kyrgyzstan,5.286,417,28
+Nigeria,5.268,566,26
+Bhutan,5.253,64,65
+Azerbaijan,5.212,31,29
+Pakistan,5.194,586,30
+Jordan,5.192,400,53
+Montenegro,5.192,499,44
+China,5.14,156,37
+Zambia,5.129,894,38
+Romania,5.124,642,46
+Serbia,5.123,688,40
+Portugal,5.102,620,63
+Latvia,5.098,428,55
+Philippines,5.073,608,35
+Somaliland region,5.057,,
+Morocco,5.013,504,36
+Macedonia,5.007,807,42
+Mozambique,4.971,508,31
+Albania,4.959,8,36
+Bosnia and Herzegovina,4.949,70,38
+Lesotho,4.898,426,44
+Dominican Republic,4.885,214,33
+Laos,4.876,25,
+Mongolia,4.874,496,39
+Swaziland,4.867,748,
+Greece,4.857,300,46
+Lebanon,4.839,422,28
+Hungary,4.8,348,51
+Honduras,4.788,340,31
+Tajikistan,4.786,762,26
+Tunisia,4.739,788,38
+Palestinian Territories,4.715,,
+Bangladesh,4.694,50,25
+Iran,4.686,364,27
+Ukraine,4.681,804,27
+Iraq,4.677,368,16
+South Africa,4.642,710,44
+Ghana,4.633,288,47
+Zimbabwe,4.61,716,21
+Liberia,4.571,430,37
+India,4.565,356,38
+Sudan,4.55,728,15
+Haiti,4.518,332,17
+Congo (Kinshasa),4.517,,
+Nepal,4.514,524,27
+Ethiopia,4.512,231,33
+Sierra Leone,4.507,694,29
+Mauritania,4.436,478,31
+Kenya,4.419,404,25
+Djibouti,4.369,262,34
+Armenia,4.35,51,35
+Botswana,4.332,72,63
+Myanmar,4.307,104,22
+Georgia,4.297,268,52
+Malawi,4.292,454,31
+Sri Lanka,4.271,144,37
+Cameroon,4.252,120,27
+Bulgaria,4.218,100,41
+Egypt,4.194,818,36
+Yemen,4.077,887,18
+Angola,4.033,24,15
+Mali,3.995,466,35
+Congo (Brazzaville),3.989,,
+Comoros,3.956,174,26
+Uganda,3.931,800,25
+Senegal,3.904,686,44
+Gabon,3.896,266,34
+Niger,3.845,562,34
+Cambodia,3.819,116,21
+Tanzania,3.781,834,30
+Madagascar,3.681,450,28
+Central African Republic,3.678,140,24
+Chad,3.667,148,22
+Guinea,3.656,226,25
+Ivory Coast,3.655,,
+Burkina Faso,3.587,854,38
+Afghanistan,3.575,4,11
+Rwanda,3.465,646,54
+Benin,3.34,204,37
+Syria,3.006,760,18
+Burundi,2.906,108,21
+Togo,2.839,768,32
