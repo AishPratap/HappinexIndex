@@ -10,11 +10,11 @@ The following DataSources were used in this project:
 3. http://www.nationsonline.org/oneworld/country_code_list.htm
 
 
-### Preview
+### Visualizations
 
-Happiness Index
+#### Happiness Index
 ![ScreenShot](https://github.com/AishPratap/HappinexIndex/blob/master/Resources/HappinessIndex.png)
 
-Corruption Index
+#### Corruption Index
 ![ScreenShot](https://github.com/AishPratap/HappinexIndex/blob/master/Resources/CorruptionIndex.png)
 
