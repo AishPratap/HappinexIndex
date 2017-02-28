@@ -13,4 +13,7 @@ The following DataSources were used in this project:
 ### Preview
 
 ![ScreenShot](https://github.com/AishPratap/HappinexIndex/blob/master/Resources/HappinessIndex.png)
+Happiness Index
+
 ![ScreenShot](https://github.com/AishPratap/HappinexIndex/blob/master/Resources/CorruptionIndex.png)
+Corruption Index
