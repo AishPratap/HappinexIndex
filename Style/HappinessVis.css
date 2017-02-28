@@ -1,5 +1,5 @@
 body{
-    background-color: #E6E7EB;
+    background-color: white;
 }
 
 .header{
@@ -12,16 +12,18 @@ body{
 .index-body{
     background-color: white;
     height: 50%;
-    width: 76%;
+    width: 75%;
     display: block;
     margin: auto;
-    box-shadow: 5px 5px 10px #888888;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*box-shadow: 5px 5px 40px 5px #888888;*/
 }
 
 .description{
     height: 50%;
     width: 100%;
-    background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
 }
 
 .index-container{
